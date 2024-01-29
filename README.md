@@ -7,7 +7,9 @@
   
 <img width="753" alt="Total View Active (1)" src="https://github.com/franklin-paul/product-c/assets/157861146/6386fddb-5074-42cb-af7c-12dda489cf20">
 <br/><br/>
+
 #### INTRODUCTION:
+
 This document provides a quick overview of Product C, an innovative Max patch (Cycling 74/Max4Live) designed for music production and performance. Product C features a 6-channel live sampler and drum sequencer, complemented by 4 channels of live looping, offering an extensive range of functionalities for a versatile and interactive musical experience.
 
 <br/><br/>
@@ -25,4 +27,4 @@ These videos provide a straightforward guide to Product C's features, suitable f
 
 <br/><br/>
 #### Link to detailed README with pictures:
-https://github.com/franklin-paul/product-d/blob/main/Product%20D%20README.pdf
+https://github.com/franklin-paul/product-c/blob/main/Product%20C%20README.pdf
