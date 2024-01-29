@@ -2,17 +2,27 @@
 
 <h3 align="center">Paul Franklin
 
-<h4 align="center">12/14/2023
+<h4 align="center">5/11/2023
 <br/><br/>
   
-![20231215_193114 (1)](https://github.com/franklin-paul/product-d/assets/157861146/b51aaf37-2402-4384-a788-ea5d875abd5d)
+<img width="753" alt="Total View Active (1)" src="https://github.com/franklin-paul/product-c/assets/157861146/6386fddb-5074-42cb-af7c-12dda489cf20">
 <br/><br/>
 #### INTRODUCTION:
-I created a Max patch (Cycling 74/Max4Live) 6 channel live sampler and drum sequencer with 4 channels of live looping. It has a massive suite of features, and I wanted to create a hardware controller designed from the ground-up to work with it in an intuitive and musical way. This is the Product D.
+This document provides a quick overview of Product C, an innovative Max patch (Cycling 74/Max4Live) designed for music production and performance. Product C features a 6-channel live sampler and drum sequencer, complemented by 4 channels of live looping, offering an extensive range of functionalities for a versatile and interactive musical experience.
+
 <br/><br/>
 #### VIDEO DEMO:
-Since the Product D is so large, and the Max patch itself is also rather robust, I have provided a video that highlights some of the main features of each.
-https://youtu.be/9CjlLabXJGk?si=WKS1RjFF124F9Jik
+This series includes four videos, each focusing on a different aspect of Product C:
+Sequencer Walkthrough: An in-depth look at the sequencing functions, demonstrating how to create and edit sequences.
+https://youtu.be/X_rHDqXc8i0?si=BlAaMRG2Oiv8uyNn 
+Sampler Overview: A guide to the sampling features, showing how to use and manipulate samples.
+https://youtu.be/TWR6hnoqBLA?si=lsS7jbAC_PtoIpEA 
+Looper Functionality: Highlights the looper's capabilities, showcasing its use in composition and performance.
+https://youtu.be/ie7K6RaoaDQ?si=biv4nKbaQS1tIWzh 
+Musical Demonstration: A practical demo combining sequencer, sampler, and looper features to illustrate Product C in a musical setting.
+https://youtu.be/EeoqAu2cc30?si=T9LRINwLufwR7-8p 
+These videos provide a straightforward guide to Product C's features, suitable for users at any skill level.
+
 <br/><br/>
 #### Link to detailed README with pictures:
 https://github.com/franklin-paul/product-d/blob/main/Product%20D%20README.pdf
